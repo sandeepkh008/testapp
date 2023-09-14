@@ -1,3 +1,7 @@
 first commit
+<<<<<<< HEAD
 
 added from dev branch
+=======
+added from github directly
+>>>>>>> main
